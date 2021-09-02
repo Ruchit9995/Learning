@@ -6,7 +6,7 @@
 // import Listing from './Listing';
 // git clear
 // import Fn from './Fn'
-import Listfun from './Listfun'
+// 
 
 function App() {
   return (
@@ -16,7 +16,7 @@ function App() {
       {/* <Function text="Vishal tank"/> */}
       {/* <Listing/> */}
       {/* <Listingfn/> */}
-      <Listfun/>
+      {/* <Listfun/> */}
     </div>
   );
 }
